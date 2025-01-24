@@ -1,0 +1,23 @@
+
+
+sass =  npm i sass@1.68.0
+
+for motion
+npm i framer-motion@10.16.4
+
+email js
+service_q6bpll8
+template_26n2a8r
+sg5xpOVjbNjbThDqD
+
+npm i @emailjs/browser
+
+https://sn-repair-frothend-react.vercel.app/
+sn repair
+
+https://doctor-project-final-fontend.vercel.app/
+doctor 
+
+https://quiz-app-one-xi.vercel.app/
+quiz
+
