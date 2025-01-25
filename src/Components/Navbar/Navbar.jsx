@@ -24,7 +24,7 @@ function Navbar() {
         </motion.span>
         <div className="social">
           <a href='https://github.com/akkiadepu' target='_blank' rel="noopener noreferrer">
-            <img src='https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-github-4555889_121361.png' alt='' />
+            <img src="/github.svg" alt='' />
           </a>
           <a href='https://www.linkedin.com/in/akhila-adepu-8b433120a/' target='_blank' rel="noopener noreferrer">
             <img src='./linkedin1.png' alt='' />
